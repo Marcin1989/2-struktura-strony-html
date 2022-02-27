@@ -1,0 +1,38 @@
+button {
+    border: 1px solid black;
+    width: 100px;
+    height: 40px;
+}
+
+button:hover {
+    background-color: rgb(0, 0, 255);
+    cursor: pointer;
+}
+
+ul {
+    display: inline-block;
+}
+
+nav {
+    margin-left: 500px;
+}
+
+h1, h2 {
+    margin-left: 600px;
+}
+
+span {
+    margin-left: 600px;
+}
+
+#home {
+    background-color: orange;
+}
+
+footer {
+    background-color: gray;
+}
+
+section {
+    background-color: green;
+}
